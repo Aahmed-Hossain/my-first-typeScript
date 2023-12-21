@@ -1,0 +1,13 @@
+var userId;
+var firstName;
+var lastName;
+var fullName;
+var isActive;
+userId = 101;
+firstName = "Ahmed";
+lastName = " Hossain";
+isActive = true;
+fullName = firstName.concat(lastName);
+console.log(fullName);
+console.log(userId);
+console.log(firstName);
